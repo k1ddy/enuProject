@@ -1,0 +1,7 @@
+<Image HorizontalAlignment="Left" Source="C:\Users\Scream\source\repos\WpfApp1\WpfApp1\images\img1.jfif" C Height="175" Margin="10,10,0,0" VerticalAlignment="Top" Width="260"/>
+            <Image HorizontalAlignment="Left" Source="C:\Users\Scream\source\repos\WpfApp1\WpfApp1\images\img2.png" Height="170" Margin="235,10,0,0" VerticalAlignment="Top" Width="250"/>
+            <Image HorizontalAlignment="Left" Source="C:\Users\Scream\source\repos\WpfApp1\WpfApp1\images\img3.jfif" Height="130" Margin="480,10,0,0" VerticalAlignment="Top" Width="244"/>
+            <Image HorizontalAlignment="Left" Source="C:\Users\Scream\source\repos\WpfApp1\WpfApp1\images\img4.jpg" Height="170" Margin="10,265,0,0" VerticalAlignment="Top" Width="225"/>
+            <Image HorizontalAlignment="Left" Source="C:\Users\Scream\source\repos\WpfApp1\WpfApp1\images\img4.jpg" Height="185" Margin="10,245,0,0" VerticalAlignment="Top" Width="260"/>
+            <Image HorizontalAlignment="Left" Source="C:\Users\Scream\source\repos\WpfApp1\WpfApp1\images\img5.jfif" Height="185" Margin="500,245,-11,0" VerticalAlignment="Top" Width="235"/>
+            <Image HorizontalAlignment="Left" Source="C:\Users\Scream\source\repos\WpfApp1\WpfApp1\images\img6.png" Height="165" Margin="225,270,0,0" VerticalAlignment="Top" Width="245"/>

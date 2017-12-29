@@ -1,0 +1,448 @@
+﻿<Window x:Class="WpfApp1.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Тест" Height="452.709" Width="700">
+    <Border Padding="5" >
+        <Grid>
+            <TabControl x:Name="quiz" Margin="25" >
+
+                <TabItem RenderTransformOrigin="1.748,0.498">
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Text="1" Margin="0.1" Foreground="Blue" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Label Margin="10" FontSize="18" FontWeight="DemiBold" Content="Чем является системный блок?"/>
+                        <StackPanel Margin="10 20">
+                            <RadioButton  Name="rb1" Margin="5" Content="физически представляет собой шасси, которое наполнено аппаратным обеспечением." />
+                            <RadioButton Name="rb2" Margin="5" Content="устройство, предназначенное для воспроизведения видеосигнала и визуального отображения информации." />
+                            <RadioButton Name="rb3" Margin="5" Content="координатное устройство для управления курсором и отдачи различных команд компьютеру." />
+                            <RadioButton Name="rb4" Margin="5" Content="переносной персональный компьютер, в корпусе которого объединены типичные компоненты ПК" />
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Text="2" Foreground="Blue" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Label Margin="10" FontSize="18" FontWeight="DemiBold" Content="В системном блоке компьютера находятся:"/>
+                        <StackPanel Margin="10 20">
+                            <RadioButton Name="rb5" Margin="5" Content="процессор, внутренняя память, СD-ROM, контроллеры внешних устройств, блок питания…" />
+                            <RadioButton Name="rb6" Margin="5" Content="процессор, внутренняя память, дисковод, сканер, блок питания…" />
+                            <RadioButton Name="rb7" Margin="5" Content="процессор, внешняя память, контроллеры внешних устройств, блок питания, дисплей…" />
+                            <RadioButton Name="rb8" Margin="5" Content="процессор, внешняя память, сканер, блок питания..." />
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Text="3" Foreground="Blue" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Label Margin="10" FontSize="18" FontWeight="DemiBold" Content="На материнской плате компьютера находятся:"/>
+                        <StackPanel Margin="10 20">
+                            <RadioButton Name="rb9" Margin="5" Content="драйверы, процессор, контроллеры" />
+                            <RadioButton Name="rb10" Margin="5" Content="ОЗУ, процессор, слоты" />
+                            <RadioButton Name="rb11" Margin="5" Content="контроллеры, ОЗУ, винчестер" />
+                            <RadioButton Name="rb12" Margin="5" Content="процессор, слоты, дисковод" />
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Text="4" Foreground="Blue" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Label Margin="10" FontSize="18" FontWeight="DemiBold" Content="Важными характеристиками процессора являются:"/>
+                        <StackPanel Margin="10 20">
+                            <RadioButton Name="rb13" Margin="5" Content="тактовая частота, объем памяти, скорость передачи данных" />
+                            <RadioButton Name="rb14" Margin="5" Content="разрядность, адресное пространство, скорость передачи данных" />
+                            <RadioButton Name="rb15" Margin="5" Content="тактовая частота, разрядность, адресное пространство" />
+                            <RadioButton Name="rb16" Margin="5" Content="емкость, форм фактор, скорость вращения шпинделя" />
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Text="5" Foreground="Blue" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Label Margin="10" FontSize="16" FontWeight="DemiBold" Content="Какой  вариант правильный ' Для теплоотвода от &#xD;&#xA;микропроцессоров применяются _______ радиаторы и ______ &#xD;&#xA;кулеры'?"/>
+                        <StackPanel Margin="10 20">
+                            <RadioButton Name="rb17" Margin="5" Content="Пассивные и активные" />
+                            <RadioButton Name="rb18" Margin="5" Content="Активные и активные  " />
+                            <RadioButton Name="rb19" Margin="5" Content="Активные и пассивные" />
+                            <RadioButton Name="rb20" Margin="5" Content="Пассивные и пассивные " />
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Text="6" Foreground="Blue" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Label Margin="10" FontSize="18" FontWeight="DemiBold" Content="Энергозависимая часть системы компьютерной памяти, &#xD;&#xA;в которой во время работы компьютера хранится&#xD;&#xA; выполняемый машинный код (программы)&#xD;&#xA;, а также входные, выходные и промежуточные данные, &#xD;&#xA;обрабатываемые процессором." Height="135"/>
+                        <StackPanel Margin="10 20" Height="104" RenderTransformOrigin="0.499,0.293">
+                            <RadioButton Name="rb21" Margin="5" Content="ПЗУ" />
+                            <RadioButton Name="rb22" Margin="5" Content="Жесткий диск" />
+                            <RadioButton Name="rb23" Margin="5" Content="ОЗУ" />
+                            <RadioButton Name="rb24" Margin="5" Content="Кэш-память" />
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Text="7" Foreground="Blue" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Label Margin="10" FontSize="18" FontWeight="DemiBold" Content="Энергонезависимая память, используется для хранения&#xD;&#xA; массива неизменяемых данных "/>
+                        <StackPanel Margin="10 20">
+                            <RadioButton Name="rb25" Margin="5" Content="Гибкий Диск" />
+                            <RadioButton Name="rb26" Margin="5" Content="ОЗУ" />
+                            <RadioButton Name="rb27" Margin="5" Content="ПЗУ" />
+                            <RadioButton Name="rb28" Margin="5" Content="Жесткий диск" />
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Text="8" Foreground="Blue" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Label Margin="10" FontSize="18" FontWeight="DemiBold" Content="вид компьютерных комплектующих: печатная плата, &#xD;&#xA;которую устанавливают в слот расширения материнской&#xD;&#xA; платы компьютерной системы с целью добавления&#xD;&#xA; дополнительных функций."/>
+                        <StackPanel Margin="10 20">
+                            <RadioButton Name="rb29" Margin="5" Content="расширение памяти" />
+                            <RadioButton Name="rb30" Margin="5" Content="Карта расширения" />
+                            <RadioButton Name="rb31" Margin="5" Content="BIOS" />
+                            <RadioButton Name="rb32" Margin="5" Content="ОЗУ" />
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Text="9" Foreground="Blue" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Label Margin="10" FontSize="18" FontWeight="DemiBold" Content="Запоминающее устройство произвольного доступа,&#xD;&#xA; основанное на принципе магнитной записи. "/>
+                        <StackPanel Margin="10 20">
+                            <RadioButton Name="rb33" Margin="5" Content="Гибкий диск" />
+                            <RadioButton Name="rb34" Margin="5" Content="Жесткий диск" />
+                            <RadioButton Name="rb35" Margin="5" Content="Компакт диск" />
+                            <RadioButton Name="rb36" Margin="5" Content="CD диск" />
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Text="10" Foreground="Blue" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Label Margin="10" FontSize="18" FontWeight="DemiBold" Content="Электромеханическое устройство для считывания и записи&#xD;&#xA;, посредством лазера, информации с оптических дисков&#xD;&#xA; в виде пластикового диска с отверстием в центре"/>
+                        <StackPanel Margin="10 20">
+                            <RadioButton Name="rb37" Margin="5" Content="Оптических накопитель" />
+                            <RadioButton Name="rb38" Margin="5" Content="Гибкий диск" />
+                            <RadioButton Name="rb39" Margin="5" Content="Привод оптических дисков" />
+                            <RadioButton Name="rb40" Margin="5" Content="USB накопитель" />
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Text="11" Foreground="Blue" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Label Margin="10" FontSize="18" FontWeight="DemiBold" Content="Сколько типов usb обычно в современных ноутбуках?"/>
+                        <StackPanel Margin="10 20">
+                            <RadioButton Name="rb41" Margin="5" Content="3" />
+                            <RadioButton Name="rb42" Margin="5" Content="2" />
+                            <RadioButton Name="rb43" Margin="5" Content="4" />
+                            <RadioButton Name="rb44" Margin="5" Content="5" />
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Text="12" Foreground="Blue" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Label Margin="10" FontSize="18" FontWeight="DemiBold" Content="Что такое  Форм-Фактор?"/>
+                        <StackPanel Margin="10 20">
+                            <RadioButton Name="rb45" Margin="5" Content="гнездовой или щелевой разъём (гнездо) в материнской плате" />
+                            <RadioButton Name="rb46" Margin="5" Content="специализированный разъём в компьютере, предназначенный для подключения&#xD;&#xA; оборудования определённого типа. " />
+                            <RadioButton Name="rb47" Margin="5" Content="стандарт, задающий габаритные размеры технического изделия" />
+                            <RadioButton Name="rb48" Margin="5" Content="максимальное количество информации, которое способен вместить жёсткий&#xD;&#xA; магнитный диск." />
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Text="13" Foreground="Blue" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Label Margin="10" FontSize="18" FontWeight="DemiBold" Content="Последнее поколения процессеров intel core i7 "/>
+                        <StackPanel Margin="10 20">
+                            <RadioButton Name="rb49" Margin="5" Content="8700 K" />
+                            <RadioButton Name="rb50" Margin="5" Content="7700" />
+                            <RadioButton Name="rb51" Margin="5" Content="8700 max" />
+                            <RadioButton Name="rb52" Margin="5" Content="7700T" />
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Text="14" Foreground="Blue" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Label Margin="10" FontSize="18" FontWeight="DemiBold" Content="Последняя вышедшая видеокарта от nvidia"/>
+                        <StackPanel Margin="10 20">
+                            <RadioButton Name="rb53" Margin="5" Content="1080 ti" />
+                            <RadioButton Name="rb54" Margin="5" Content="1070" />
+                            <RadioButton Name="rb55" Margin="5" Content="1080" />
+                            <RadioButton Name="rb56" Margin="5" Content="1070 ti" />
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Text="15" Foreground="Blue" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Label Margin="10" FontSize="18" FontWeight="DemiBold" Content="Что такое магистраль компьютера?"/>
+                        <StackPanel Margin="10 20">
+                            <RadioButton Name="rb57" Margin="5" Content="Oбеспечивает обмен информацией с контроллерами периферийных устройств" />
+                            <RadioButton Name="rb58" Margin="5" Content="Oбеспечивает подключение к компьютеру одновременно нескольких периферийных устройств" />
+                            <RadioButton Name="rb59" Margin="5" Content="Устройство, которое осуществляет взаимосвязь и обмен информацией между&#xD;&#xA; всеми устройствами компьютера." />
+                            <RadioButton Name="rb60" Margin="5" Content="Для передачи данных между устройствами, расположенными на материнской плате" />
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Text="16" Foreground="Blue" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Label Margin="10" FontSize="18" FontWeight="DemiBold" Content="Что такое материнская плата?"/>
+                        <StackPanel Margin="10 20">
+                            <RadioButton Name="rb61" Margin="5" Content="энергозависимая часть системы компьютерной памяти, в которой во время&#xD;&#xA; работы компьютера хранится выполняемый машинный код " />
+                            <RadioButton Name="rb62" Margin="5" Content=" устройство, преобразующее графический образ, хранящийся как содержимое памяти компьютера" />
+                            <RadioButton Name="rb63" Margin="5" Content="Центральная часть компьютера, выполняющая заданные программой преобразования&#xD;&#xA; информации и осуществляющая управление всем вычислительным процессом." />
+                            <RadioButton Name="rb64" Margin="5" Content="печатная плата, являющаяся основой построения модульного устройства" />
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Text="17" Foreground="Blue" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Label Margin="10" FontSize="16" FontWeight="DemiBold" Content="Как называется компьютерное немеханическое запоминающее &#xD;&#xA;устройство на основе микросхем памяти, которое пришло на &#xD;&#xA;смену HDD?"/>
+                        <StackPanel Margin="10 20">
+                            <RadioButton Name="rb65" Margin="5" Content="SSD" />
+                            <RadioButton Name="rb66" Margin="5" Content="КЭШ" />
+                            <RadioButton Name="rb67" Margin="5" Content="EC " />
+                            <RadioButton Name="rb68" Margin="5" Content="Видеокарта " />
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Text="18" Foreground="Blue" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Label Margin="10" FontSize="16" FontWeight="DemiBold" Content="Что имеют графический процессор, который может производить &#xD;&#xA;дополнительную обработку, разгружая ЦПУ ?"/>
+                        <StackPanel Margin="10 20">
+                            <RadioButton Name="rb69" Margin="5" Content="Видеокарта" />
+                            <RadioButton Name="rb70" Margin="5" Content="Сетевая карта  " />
+                            <RadioButton Name="rb71" Margin="5" Content="Звуковая карта " />
+                            <RadioButton Name="rb72" Margin="5" Content="HDD " />
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Text="19" Foreground="Blue" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Label Margin="10" FontSize="16" FontWeight="DemiBold" Content="Что из нижеперечисленного не считается платой расширения? "/>
+                        <StackPanel Margin="10 20">
+                            <RadioButton Name="rb73" Margin="5" Content="Видеокарта " />
+                            <RadioButton Name="rb74" Margin="5" Content="Сетевая карта  " />
+                            <RadioButton Name="rb75" Margin="5" Content="Звуковая карта " />
+                            <RadioButton Name="rb76" Margin="5" Content="Плата контроллера" />
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Text="20" Foreground="Blue" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Label Margin="10" FontSize="16" FontWeight="DemiBold" Content="Что из нижеперечисленного также может считаться платой &#xD;&#xA;расширения? "/>
+                        <StackPanel Margin="10 20">
+                            <RadioButton Name="rb77" Margin="5" Content="Сompact Form Factor " />
+                            <RadioButton Name="rb78" Margin="5" Content="Плата контроллера " />
+                            <RadioButton Name="rb79" Margin="5" Content="Модем" />
+                            <RadioButton Name="rb80" Margin="5" Content="Плата мультиконтроллера " />
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Text="21" Foreground="Blue" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Label Margin="10" FontSize="16" FontWeight="DemiBold" Content="Какая карта выводит следующую цепочку передачи кадров:&#xD;&#xA; оперативная память — адаптер —физический канал — адаптер —&#xD;&#xA; оперативная память? "/>
+                        <StackPanel Margin="10 20">
+                            <RadioButton Name="rb81"  Margin="5" Content="Видеокарта " />
+                            <RadioButton Name="rb82"  Margin="5" Content="Сетевая карта" />
+                            <RadioButton Name="rb83"  Margin="5" Content="Звуковая карта " />
+                            <RadioButton Name="rb84"  Margin="5" Content="HDD " />
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Text="22" Foreground="Blue" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Label Margin="10" FontSize="16" FontWeight="DemiBold" Content="Что также выполняет функции стабилизации и защиты от &#xD;&#xA;незначительных помех питающего напряжения?"/>
+                        <StackPanel Margin="10 20">
+                            <RadioButton Name="rb85"  Margin="5" Content="Блок Питания" />
+                            <RadioButton Name="rb86"  Margin="5" Content="Микропроцессор " />
+                            <RadioButton Name="rb87"  Margin="5" Content="Звуковая карта " />
+                            <RadioButton Name="rb88"  Margin="5" Content="RAM  " />
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Text="23" Foreground="Blue" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Label Margin="10" FontSize="16" FontWeight="DemiBold" Content=" Как называется шина ввода-вывода для подключения &#xD;&#xA;периферийных устройств к материнской плате компьютера?"/>
+                        <StackPanel Margin="10 20">
+                            <RadioButton Name="rb89"  Margin="5" Content="EC " />
+                            <RadioButton Name="rb90"  Margin="5" Content="PSI" />
+                            <RadioButton Name="rb91"  Margin="5" Content="JHA " />
+                            <RadioButton Name="rb92"  Margin="5" Content="HD " />
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Text="24" Foreground="Blue" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Label Margin="10" FontSize="16" FontWeight="DemiBold" Content="Как называется дополнительное оборудование персонального &#xD;&#xA;компьютера и ноутбука, позволяющее обрабатывать звук?"/>
+                        <StackPanel Margin="10 20">
+                            <RadioButton Name="rb93" Margin="5" Content="Видеокарта " />
+                            <RadioButton Name="rb94" Margin="5" Content="Сетевая карта" />
+                            <RadioButton Name="rb95" Margin="5" Content="Звуковая карта" />
+                            <RadioButton Name="rb96" Margin="5" Content="HDD " />
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Text="25" Foreground="Blue" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel>
+                        <Label Margin="10" FontSize="16" FontWeight="DemiBold" Content="Что является главным недостатком SSD-накопителей на базе&#xD;&#xA; флеш-памяти ?"/>
+                        <StackPanel Margin="10 20">
+                            <RadioButton Name="rb97" Margin="5" Content="ограниченное число циклов перезаписи" />
+                            <RadioButton Name="rb98" Margin="5" Content="Отсутствие движущихся частей " />
+                            <RadioButton Name="rb99" Margin="5" Content="низкое энергопотребление " />
+                            <RadioButton Name="rb100" Margin="5" Content="намного меньшая чувствительность к внешним электромагнитным полям , чем у HDD " />
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+
+            </TabControl>
+            <Button Click="Button_Click" Content="Завершить тест" HorizontalAlignment="Left" Margin="281,354,0,0" VerticalAlignment="Top" Width="95"/>
+            <Button Click="Button_Click_1" Content="Вперед" HorizontalAlignment="Left" Margin="585,354,0,0" VerticalAlignment="Top" Width="50"/>
+            <Button Click="Button_Click_2" Content="Назад" HorizontalAlignment="Left" Margin="25,354,0,0" VerticalAlignment="Top" Width="50" RenderTransformOrigin="-4.192,0.667"/>
+
+
+
+        </Grid>
+    </Border>
+</Window>

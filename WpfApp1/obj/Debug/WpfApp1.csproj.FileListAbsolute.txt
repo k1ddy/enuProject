@@ -1,0 +1,110 @@
+C:\Users\Scream\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\Scream\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Scream\source\repos\WpfApp1\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\Scream\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Scream\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Scream\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Scream\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Scream\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Scream\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Scream\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Scream\source\repos\WpfApp1\WpfApp1\obj\Debug\Window1.baml
+C:\Users\Scream\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Scream\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Scream\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\Scream\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Scream\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Scream\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Scream\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Scream\source\repos\WpfApp1\WpfApp1\obj\Debug\Window2.g.cs
+C:\Users\Scream\source\repos\WpfApp1\WpfApp1\obj\Debug\Window2.baml
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\Window2.g.cs
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\Window1.baml
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\Window2.baml
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\Blok.g.cs
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\Blok.baml
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\cpu.g.cs
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\gpu.g.cs
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\hdd.g.cs
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\ram.g.cs
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\cpu.baml
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\gpu.baml
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\hdd.baml
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\ram.baml
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\extension.g.cs
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\mb.g.cs
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\sound.g.cs
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\extension.baml
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\mb.baml
+C:\Users\Scream\Desktop\WpfApp1\WpfApp1\obj\Debug\sound.baml
+C:\Users\lenovo\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\WpfApp1\WpfApp1\obj\Debug\Blok.g.cs
+C:\Users\lenovo\Desktop\WpfApp1\WpfApp1\obj\Debug\cpu.g.cs
+C:\Users\lenovo\Desktop\WpfApp1\WpfApp1\obj\Debug\extension.g.cs
+C:\Users\lenovo\Desktop\WpfApp1\WpfApp1\obj\Debug\gpu.g.cs
+C:\Users\lenovo\Desktop\WpfApp1\WpfApp1\obj\Debug\hdd.g.cs
+C:\Users\lenovo\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\WpfApp1\WpfApp1\obj\Debug\mb.g.cs
+C:\Users\lenovo\Desktop\WpfApp1\WpfApp1\obj\Debug\ram.g.cs
+C:\Users\lenovo\Desktop\WpfApp1\WpfApp1\obj\Debug\sound.g.cs
+C:\Users\lenovo\Desktop\WpfApp1\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\lenovo\Desktop\WpfApp1\WpfApp1\obj\Debug\Window2.g.cs
+C:\Users\lenovo\Desktop\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\lenovo\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\lenovo\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\lenovo\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\lenovo\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\Blok.g.cs
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\cpu.g.cs
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\extension.g.cs
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\gpu.g.cs
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\hdd.g.cs
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\mb.g.cs
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\ram.g.cs
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\sound.g.cs
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\Window2.g.cs
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\Blok.baml
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\cpu.baml
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\extension.baml
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\gpu.baml
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\hdd.baml
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\mb.baml
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\ram.baml
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\sound.baml
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\Window1.baml
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\Window2.baml
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Scream\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache

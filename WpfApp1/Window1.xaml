@@ -1,0 +1,34 @@
+﻿<Window x:Class="WpfApp1.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Комплектующие" Height="517" Width="910.574">
+    <Border Padding="10">
+        <StackPanel>
+            <Grid >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Image Grid.Column="0" MouseLeftButtonDown="Image_MouseRightButtonDown" Width="250" Source="images\img1.jpg"  />
+                <Image Grid.Column="1" MouseLeftButtonDown="Image_MouseLeftButtonDown"  Source="images\img2.png"  />
+                <Image Grid.Column="2" MouseLeftButtonDown="Image_MouseLeftButtonDown_1" Source="images\img3.jpg"/>
+                <Image Grid.Column="3" MouseLeftButtonDown="Image_MouseLeftButtonDown_2" Source="images\img4.jpg" />
+                <Image Grid.Row="1"  Grid.Column="0" MouseLeftButtonDown="Image_MouseLeftButtonDown_4" Source="images\img6.png" />
+                <Image Grid.Row="1" Grid.Column="1" MouseLeftButtonDown="Image_MouseLeftButtonDown_5" Source="images\img7.1.jpg"/>
+                <Image Grid.Row="1" Grid.Column="2"  MouseLeftButtonDown="Image_MouseLeftButtonDown_6" Source="images\img8.png" />
+                <Image Grid.Row="1" Grid.Column="3" MouseLeftButtonDown="Image_MouseLeftButtonDown_3"  Source="images\img5.1.jpg" />
+
+            </Grid>
+        </StackPanel>
+    </Border>
+</Window>
